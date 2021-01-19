@@ -2,7 +2,7 @@
 # coding=utf-8
 # (xclowns) termuxID
 # Source : Python2 Gerak"
-# DARK-FB version1.7
+# Wah Ada Kang Recode kek kont*l
 
 #Import module
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
@@ -65,8 +65,8 @@ logo = """\033[1;93m█████████
 \033[1;93m█████████      \033[1;92m«----------✧----------»
 \033[1;93m ██ ██
 \033[1;93m╔════════════════════════════════════════════╗
-\033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m: \033[1;93mtermuxID \033[1;93m              ║
-\033[1;93m║\033[1;96m* \033[1;93mGitHub  \033[1;93m: \033[1;93m\033[4mbangzaht\033[0m \033[1;93m      ║
+\033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m: \033[1;93mtermuxID \033[1;93m              
+\033[1;93m║\033[1;96m* \033[1;93mGitHub  \033[1;93m: \033[1;93m\033[4mbangzaht\033[0m \033[1;93m      
 \033[1;93m╚════════════════════════════════════════════╝"""
 
 # titik #
